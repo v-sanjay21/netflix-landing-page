@@ -56,13 +56,14 @@ No installation or backend setup needed.
 ![Home Page](screenshort/HomePage.png)
 
 ### UI Screenshot 1
-![Screenshot 1]("screenshort/Screenshot 2025-11-21 162509.png")
+![Screenshot 1](screenshort/screenshot1.png)
 
 ### UI Screenshot 2
-![Screenshot 2]("screenshort/Screenshot 2025-11-21 162541.png")
+![Screenshot 2](screenshort/screenshot2.png)
 
 ### UI Screenshot 3
-![Screenshot 3]("screenshort/Screenshot 2025-11-21 162609.png")
+![Screenshot 3](screenshort/screenshot3.png)
+
 
 
 ---
