@@ -50,6 +50,21 @@ Recreated Netflix-style sections including:
 
 No installation or backend setup needed.
 
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![Home Page](Screenshort/HomePage.png)
+
+### 📄 UI Screenshot 1
+![Screenshot 1](Screenshort/Screenshot 2025-11-21 162509.png)
+
+### 📄 UI Screenshot 2
+![Screenshot 2](Screenshort/Screenshot 2025-11-21 162541.png)
+
+### 📄 UI Screenshot 3
+![Screenshot 3](Screenshort/Screenshot 2025-11-21 162609.png)
+
+
 ---
 
 ## 📁 Project Structure
